@@ -6,4 +6,4 @@ Originally created by [kemiu](https://www.curseforge.com/members/kemiu). Updated
 
 ## License
 
-[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) — see [LICENSE.txt](LICENSE.txt).
+[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) — see [LICENSE.md](LICENSE.md).
